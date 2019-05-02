@@ -1,0 +1,415 @@
+Evaluator: Kevin Guggermaier
+Alter: 24
+Geschlecht: männlich
+Gerät: Apple iPhone X 64GB MQAD2ZD/A 
+Betriebssystem und Version: Apple iOS 12.2
+Webbrowser und Version: Safari v12.2
+Ad Blocker: None
+Internetverbindung Typ: A1, LTE
+Internetverbindung Download Geschwindigkeit: 81,7 mbps
+Bildschirmgröße: 5,8″
+Bildschirmauflösung: 2436×1125 bei 458ppi
+Browserauflösung: 375x812
+Datum der Evaluierung: 2019-04-14
+Uhrzeit der Evaluierung: 13:00-15:00
+
+
+Positive Beobachtungen
+----------------------
+
+o Bedienungsanleitung 
+
+  Wer mit seinem neuen Smartphone nicht zurechtkommt kann die Bedienungsanleitung von T-Mobile verwenden. 
+  Es werden die wichtigsten Funktionen ausführlich und mit Screenshots erklärt.  
+
+  Screenshot(s): p01-gg-bedienungsanleitung.png 
+  Video clip:
+
+  Wie reproduzierbar:  Home Screen -> Service Handyhilfe -> iPhone XS auswählen 
+
+
+o Produktdetails
+
+  Schnelle und einfache Form nähere Information zu einem Produkt zu erhalten   
+
+  Screenshot(s):  
+  Video clip:   p02-gg-produktdetails.mp4
+
+  Wie reproduzierbar:  Home Screen -> Produkte -> Smartphone -> Handys -> "iPhone XS Max" Produktdetails
+
+o 3D Ansicht Smartphone
+
+  Kann bestimmte Smartphones in 3D betrachten. Ist eine sehr gute Ergänzung zu normalen Bildern. 
+
+  Screenshot(s):  
+  Video clip:  p03-gg-3dAnsicht.mp4
+
+  Wie reproduzierbar:  Home Screen -> Produkte -> Smartphone -> Handys -> "iPhone XS" Produktdetails -> Bilder -> 360° Ansicht öffnen
+
+
+Probleme
+--------
+
+o Drop Down Menu 
+
+  Wird zum Beispiel der Menü Punkt "Produkte" geöffnet, dann werden die 
+  Informationen langsam angezeigt. Beim Schließen wird der Menü Punkte "Produkte" 
+  Sprunghaft geschlossen. Dieses Problem tritt auch bei den Anderen Punkten im Menü auf.
+
+  Screenshot(s):  
+  Video clip:     n61-gg-dropDownMenu.mp4
+
+  Heuristik:  Konsistenz 
+
+  Wie reproduzierbar:  home-screen -> Menü -> Produkte
+
+o Suchfeld Smartphones 
+  
+  Will man nach einem bestimmten Smartphone oder Hersteller suchen und man hat bereits die ersten paar Buchstaben eingegeben, dann werden 
+  im Suchfeld keine vorschläge angezeigt. Man muss den kompletten Suchbegriff eingeben. 
+
+  Screenshot(s):  
+  Video clip:     n12-gg-Suchfeld.mp4
+
+  Heuristik:  Erkennen ist besser als Erinnern  
+
+  Wie reproduzierbar:  home-screen -> Menü -> Produkte -> Smartphones -> Handys
+
+o Login Rufnummer Eingabe 
+  
+  Drückt man den Button "zusätzlichen Vertrag anmelden" erscheint ein Anmeldefeld. 
+  Im ersten Feld muss man seine Rufnummer eingeben und eine Tastatur erscheint. Anstelle der
+  Tastatur sollte nur eine Numerische Eingabe möglich sein.
+
+  Screenshot(s):  
+  Video clip:     n27-gg-LoginRufnummer.mp4
+
+  Heuristik:  Fehlervermeidung 
+
+  Wie reproduzierbar:  home-screen -> Menü -> Produkte -> Smartphones -> Handys	-> Zusätzlichen Vertrag anmelden 
+
+o Login Fehlermeldung 
+  
+  Die Anzeige nach einem fehlgeschlagenen Login weist keinerlei Information auf, warum das Login fehlgeschlagen ist. 
+  Es wurde keine Passwort eingeben und die Rufnummer bestand aus Buchstaben. In der Error Meldung stand lediglich das ein 
+  Fehler aufgetreten ist. Nach dem fehlgeschlagenen Login kommt man wieder zur vorherigen Seite. 
+
+  Screenshot(s):  
+  Video clip:    n01-gg-loginError.mp4
+
+  Heuristik:  Umkehrbare Aktion  
+
+  Wie reproduzierbar:  home-screen -> Menü -> Produkte -> Smartphones -> Handys	-> Zusätzlichen Vertrag anmelden -> Feld "Rufnummer" Buchstaben eingeben -> Anmelden klicken
+
+o Drop Down Button reagiert nicht  
+  
+  Wenn für das ausgewählte Smartphone nur eine Farbe zu Verfügung steht wird es trotzdem als Drop Down Button angezeigt. Drückt man den   
+  Drop down Button wird keine Information an den Benutzer zurückgegeben. 
+
+  Screenshot(s): n30-gg-DropDownButton.png
+  Video clip:    
+
+  Heuristik:  Konsistenz
+
+  Wie reproduzierbar:  home-screen -> Menü -> Produkte -> Smartphones -> Handys	-> "iPhone XS Max" auswählen
+
+o Tarif Auswahl Feld nicht mittig  
+  
+  Das Fenster zur Auswahl des Tarifs verschwindet wenn man nach unten scrollt. Bei zu schnellem nach oben scrollen scheint es nur sehr kurz 
+  wieder auf. 
+
+  Screenshot(s):  
+  Video clip:  n66-gg-feldNichtMittig.mp4
+
+  Heuristik: Usability 
+
+  Wie reproduzierbar:  home-screen -> Menü -> Produkte -> Smartphones -> Handys	-> Tarif ändern
+
+o Aktivierungskosten  
+  
+  Im Feld Aktivierungskosten wird kein Betrag angezeigt, es wird nur in Worten beschrieben. Sollte wie bei den anderen 
+  Feldern auch eine Zahl anstelle eines Textes sein. 
+
+  Screenshot(s):  n29-gg-aktivierungskosten.png
+  Video clip:    
+
+  Heuristik:  Konsistenz 
+
+  Wie reproduzierbar:  home-screen -> Menü -> Produkte -> Top Themen -> Internet für zu Hause -> Angebot auswählen unter MyHomenet Tarife auswählen -> Zum Shop 
+
+
+o Button zum schließen verschwindet    
+  
+  Öffnet man bei einem Smartphone die 3D Ansicht dann verschwindet der Button zum Schließen.  
+
+  Screenshot(s):  
+  Video clip:  n08-gg-buttonSchließenVerschwindet.mp4
+
+  Heuristik:  Umkehrbare Aktion
+
+  Wie reproduzierbar:  home-screen -> Menü -> Produkte -> Smartphones -> Handys -> "Smartphone iPhone XS auswählen" und Produktdetails -> Bilder -> 360° Ansicht öffnen
+
+
+o Produktfoto fehlt     
+  
+  Wenn man nähere Informationen zu einem Smartphone erhalten möchte dann wird kein Produktfoto am Anfang der Seite mehr angezeigt.
+  Diese tritt bei allen getesteten Smartphones auf. 
+
+  Screenshot(s):  n48-gg-fotoFehlt.png
+  Video clip:  
+
+  Heuristik:  Sprache des Benutzers 
+
+  Wie reproduzierbar:  home-screen -> Menü -> Produkte -> Smartphones -> Handys -> "Smartphone auswählen" Infos und Kaufen 
+
+o Lieferumfang fehlt   
+  
+  Vergleicht man das iPhoneX mit dem iPhoneXS dann fehlt bei der Produktbeschreibung vom iPhoneXS der Lieferumfang.
+
+  Screenshot(s):  
+  Video clip:  n59-gg-Lieferumfang.mp4
+
+  Heuristik:  Konsistenz 
+
+  Wie reproduzierbar:  home-screen -> Menü -> Produkte -> Smartphones -> Handys -> "Smartphone auswählen" Infos und Kaufen 
+
+o Link zum Vorherigen Fenster nicht vorhanden    
+  
+  Klickt man bei einem Smartphone auf Info&Kaufen dann fehlt der Button, um zum vorherigen Fenster zurückkehren zu können. 
+
+  Screenshot(s):  n06-gg-buttonZurück.png
+  Video clip:  
+
+  Heuristik:  Umkehrbare Aktion 
+
+  Wie reproduzierbar:  home-screen -> Menü -> Produkte -> Smartphones -> Handys -> "Smartphone auswählen" Infos und Kaufen 
+
+o Rechtliche Informationen unterschiedlich
+  
+  Der Punkt Rechtliche Information bei "Smartphones" unterschiedet sich zum Punkt Rechtliche Informationen bei "Internet" Produkten.
+  Bei Produkten der Kategorie Internet wird der Punkt "Rechtliche Informationen" als Drop Down angezeigt bei Produkten der Kategorie  
+  "Smartphones" nicht. 
+
+  Screenshot(s):  n49-gg-rechtlicheInformation.png, n50-gg-rechtlicheInformation.png
+  Video clip:  
+
+  Heuristik:  Konsistenz  
+
+  Wie reproduzierbar:  home-screen -> Menü -> Produkte -> Smartphones -> Handys -> "Smartphone auswählen" Infos und Kaufen -> nach unten 
+  scrollen 
+
+  Wie reproduzierbar:  home-screen -> Menü -> Produkte -> Top Themen -> Internet für Zuhause -> nach unten scrollen 
+
+o Links funktionieren nicht
+  
+  Wenn man nähere Informationen zu den Zusatzpaketen erhalten möchte, wird unter jedem Paket der Link "Details" angezeigt. 
+  Klickt man auf den Link werden aber keine Details zu diesem Paket angezeigt sonder es wird nur der Bildschirm dunkler. 
+
+  Screenshot(s): 
+  Video clip:  n02-gg-linkGehtNicht.mp4
+
+  Heuristik:  Rückmeldung des Systemzustandes   
+
+  Wie reproduzierbar:  home-screen -> Menü -> Produkte -> Smartphones -> Handys -> "Huawei P30" Info und Kaufen -> Weiter mit Neuanmeldung 
+ 
+o Tarif ändern im Warenkorb nicht möglich 
+  
+  Will man den Tarif für sein Smartphone im Warenkorb nachträglich ändern, wird man zur Produktseite weitergeleitet und man muss die 
+  Schritte bis zum Warenkorb wieder durchführen. 
+
+  Screenshot(s): 
+  Video clip:  n03-gg-tarifÄndernWarenkorb.mp4
+
+  Heuristik:  Umkehrbare Aktion   
+
+  Wie reproduzierbar:  home-screen -> Menü -> Produkte -> Smartphones -> Handys -> "Huawei P30" Info und Kaufen -> Weiter mit Neuanmeldung -> Weiter -> Weiter -> Tarif ändern
+
+o Impressum  
+  
+  Der Link zum Impressum sollte am Ende der Seite angezeigt werden.
+
+  Screenshot(s): n70-gg-impressum.png
+  Video clip:  
+
+  Heuristik:  Umkehrbare Aktion   
+
+  Wie reproduzierbar:  home-screen
+
+o Zusatzpakte Smartphone  
+  
+  Nachdem man den Tarif und das Smartphone ausgewählt hat wird man zum Nächsten Punkt Zusatzpakete weitergeleitet. 
+  Es wird aber nicht die Optionen für Zusatzpakete angezeigt sondern zuerst der Warenkorb und weiter unten die Möglichkeiten 
+  für die Zusatzpakete erst angezeigt. 
+
+  Screenshot(s): n54-gg-nummerZusatzpakete.png
+  Video clip:  
+
+  Heuristik:  Sprache des Benutzer verwenden    
+
+  Wie reproduzierbar:  home-screen -> Menü -> Produkte -> Smartphones -> Handys -> "Huawei P30" Info und Kaufen -> Weiter mit Neuanmeldung
+ 
+o Telefonnummer Smartphone  
+  
+  Nachdem man den Tarif, das Smartphone und die Zusatzpakete ausgewählt hat wird man zum Nächsten Punkt "Rufnummer" weitergeleitet. 
+  Es werden aber nicht die verfügbaren Rufnummern angezeigt sonder der Warenkorb und erst weiter unten wieder die verfügbaren Rufnummern. 
+
+  Screenshot(s): n55-gg-nummerZusatzpakete.png
+  Video clip:  
+
+  Heuristik:  Sprache des Benutzer verwenden    
+
+  Wie reproduzierbar:  home-screen -> Menü -> Produkte -> Smartphones -> Handys -> "Huawei P30" Info und Kaufen -> Weiter mit Neuanmeldung -> Weiter
+
+o Zwischenschritt wird nicht angezeigt Smartphone
+  
+  Nachdem man den Tarif, das Smartphone und die Zusatzpakete ausgewählt hat wird man zum Nächsten Punkt Rufnummer weitergeleitet.
+  Drückt man den Punkt "Angebot auswählen" wird man nicht wie erwartet zur Produktseite weitergeleitet sondern zur Übersicht aller 
+  Smartphones 
+
+  Screenshot(s): 
+  Video clip:  n46-gg-SchrittFehlt.mp4
+
+  Heuristik:  Umkehrbare Aktion    
+
+  Wie reproduzierbar:  home-screen -> Menü -> Produkte -> Smartphones -> Handys -> "Huawei P30" Info und Kaufen -> Weiter mit Neuanmeldung -> Weiter -> Angebot auswählen 
+
+o Informationen Smartphone   
+  
+  Die Informationen sollten entweder nur als Text oder nur als Punkte angeführt werden. Werden die beiden Darstellungen vermischt 
+  wird die Aufmerksamkeit mehr auf die angeführten Punkte gelegt. 
+
+  Screenshot(s): 
+  Video clip:  n69-gg-infoSmartphone.mp4
+
+  Heuristik:  Ästhetik und minimales Design     
+
+  Wie reproduzierbar:  home-screen -> Menü -> Produkte -> Smartphones -> Handys -> "Huawei P30" Info und Kaufen -> Informationen
+
+o Angebot Handy Auswahl 
+  
+  Swiped man durch alle Smartphones die im Angebot sind, dann ist das Verhalten zwischen links und rechts swipen unterschiedlich. 
+  Links swipen: vom Letzten Smartphone zum ersten Smartphone in der Liste ist ein flüssiger Übergang 
+  Rechts swipen: vom Letzten Smartphone zum ersten Smartphone in der Liste ist ein sprunghafter Übergang  
+
+  Screenshot(s): 
+  Video clip:   n62-gg-angebotHandy.mp4
+
+  Heuristik:  Konsistenz     
+
+  Wie reproduzierbar:  home-screen -> Menü -> Produkte -> Topthemen -> Top Angebote
+
+o Warenkorb Information fehlt  
+  
+  "Geht man im Warenkorb zu den Gesamtkosten ist nicht mehr ersichtlich welche Kosten monatlich beziehungsweise einmalig sind. Scrollt man im Warenkorb nach, wird die Beschreibung der Spalten nicht mehr angezeigt  
+  "
+
+  Screenshot(s): 
+  Video clip:  n26-gg-warenkorbInfoFehlt.mp4
+
+  Heuristik: Flexibilität und Effizienz      
+
+  Wie reproduzierbar:  home-screen -> Menü -> Produkte -> Smartphones -> Handys -> "Huawei P30" Info und Kaufen -> Weiter mit Neuanmeldung -> Weiter -> Weiter
+
+o Auswahl Internet Verwendung  
+  
+  Im Menü Punkt "Internettarife" hat man die Möglichkeit zwischen den Unterschiedlichen Produkten zu wählen. Wählt man im 
+  Punkt "Ich möchte" zum Beispiel "Internet für Zuhause" dann wird man nicht weitergeleitet, es ändert sich nur die Farbe. 
+
+  Screenshot(s): 
+  Video clip:   n28-gg-internetAuswahl.mp4
+
+  Heuristik:   Rückmeldung des Systems       
+
+  Wie reproduzierbar:  home-screen -> Menü -> Produkte -> Internet -> Internettarife
+
+o Button Beschriftung stimmt mit Aktion nicht überein  
+  
+  Um den gewählten Homenet Tarif (Internet) zu bestellen muss man auf den Button "Zum Shop" geklickt werden. 
+  Durch diese Beschriftung ist auf den ersten Blick nicht ersichtlich welche Aktion man mit diesem Klick auslöst. 
+
+  Screenshot(s): n10-gg-btnFalscheAktion.png
+  Video clip:  n09-gg-btnFalscheAktion.mp4
+
+  Heuristik:   Sprache des Benutzers     
+
+  Wie reproduzierbar:  home-screen -> Menü -> Produkte -> Topthemen -> Internet für Zuhause
+
+o Ergebnis sortieren 
+  
+  Will man die angezeigten Smartphones nach Preis oder Beliebtheit sortieren dann kann man das nicht wie gewohnt in einem drop Down Menü
+  sondern mit den beiden Buttons über dem Suchfeld "Suche nach Geräten".
+  Sieht man zum ersten mal den Button "Preis" vermutet man nicht das dieser zum Sortieren ist. 
+
+  Screenshot(s): n40-gg-filterSmartphones.jpeg
+  Video clip:  
+
+  Heuristik:   Sprache des Benutzers     
+
+  Wie reproduzierbar:  home-screen -> Menü -> Produkte -> Smartphone -> Handy
+
+o Keine Suchfunktion verfügbar
+  
+  Will man nach einem Bestimmten smartphone suchen dann muss man zuerst in die Kategorie "Smartphones -> Handy" wechseln und kann dann 
+  erst die Suche starten. 
+  Es ist nicht möglich gleich auf der Startseite nach einem Produkt zu suchen.
+
+  Screenshot(s): n56-gg-keineSuchfunktion.jpeg
+  Video clip:  
+
+  Heuristik:   Flexibilität und Effizienz    
+
+  Wie reproduzierbar:  home-screen 
+
+o Falsche Sucheingabe 
+  
+  Sucht man nach einem Smartphone oder Hersteller und gibt dabei einen Flaschen Namen ein, werden keine alternativen Suchvorschläge 
+  angezeigt. Es wird nur eine Fehlermeldung angezeigt das die Suche nicht erfolgreich war. 
+
+  Screenshot(s): 
+  Video clip:  n13-gg-Suchfeld.mp4
+
+  Heuristik:   Fehlervermeidung   
+
+  Wie reproduzierbar:  home-screen -> Produkt -> Smartphone -> Handy -> Suche nach Gerät "Appel"
+
+
+o Zurückkehren zum Angebotsübersicht
+  
+  Will man im Bereich "Internet" wieder zur Produktübersicht zurückkehren ist dies nur über das Menü möglich. Es gibt kein 
+  Button oder Link mit dem man wieder zurück zur Übersicht gelangt   
+
+  Screenshot(s): 
+  Video clip:   n07-gg-buttonZurück.mp4
+
+  Heuristik:   Umkehrbare Aktion    
+
+  Wie reproduzierbar:  home-screen -> Produkt -> Internet -> Internettarife -> Mehr zu Internet für Unterwegs
+
+o Zu viel Information Produkt
+  
+  Wenn man sich näher über Tarife ohne Bindung (Mobiles Internet) informieren möchte wird einem zu viel auf einmal angezeigt. 
+  Die Informationen zu diesem Produkt wirken sehr Unübersichtlich.
+
+  Screenshot(s): 
+  Video clip:  n57-gg-informationProdukt.mp4
+
+  Heuristik:   Ästhetik und minimales Design   
+
+  Wie reproduzierbar:  home-screen -> Produkt -> Internet -> Internettarife -> Mehr zu Internet for Unterwegs -> Tarif ohne Bindung
+
+o Tarifauswahl Design unterschiedlich
+  
+  In der Kategorie "SmartHome" werden die verfügbaren Tarife nicht wie üblich (auf dieser Website) in einem Drop Down Menu angezeigt 
+  sondern nebeneinander. 
+
+  Screenshot(s): 
+  Video clip:  n63-gg-auswahlTarifDesign.mp4
+
+  Heuristik:   Konsistenz   
+
+  Wie reproduzierbar:  home-screen -> Produkte -> Smartliving -> SmartHome 
+
+
+
+
+

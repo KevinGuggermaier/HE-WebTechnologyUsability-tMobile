@@ -1,0 +1,202 @@
+﻿Evaluator: Markus Paier
+Alter: 23
+Geschlecht: männlich
+Gerät: Microsoft Surface Book
+Betriebssystem und Version: Windows 10 Pro
+Webbrowser und Version: Microsoft Edge 42.17134.1.0
+Ad Blocker: -
+Internetverbindung Typ: Drei
+Internetverbindung Download Geschwindigkeit: 	11,9 mbps
+Bildschirmgröße: 13,5″
+Bildschirmauflösung: 3000×2000
+Browserauflösung: 1500x1000
+Datum der Evaluierung: 2019-04-06
+Uhrzeit der Evaluierung: 15:00-19:00
+
+
+Positive Beobachtungen
+----------------------
+
+o Top Angebote sind sehr übersichtlich
+
+  Wenn man die aktuellen Angebote anschauen möchte,
+  bekommt man eine sehr schöne übersichtliche Seite zusehen.
+
+  Screenshot(s):
+  Video clip:     p04-mp-angebotUebersichtlich.mp4
+
+  Wie reproduzierbar:  Wie reproduzierbar: Homeseite --> Menü-Button "PRODUKTE"
+  --> Aktuelle Top-Angebote
+
+
+
+Probleme
+--------
+
+o Menü-Button ist schlecht lesbar
+
+  Auf der Homeseite ist der Menü-Button "Wechseln zu Businesskunden"
+  schlecht lesbar!
+
+  Screenshot(s):  n37-mp-allgemein.jpg
+  Video clip:
+
+  Heuristik:	Ästhetik und minimales Design
+
+  Wie reproduzierbar:  Homeseite --> Menü-Button "WECHSELN ZU BUISNESSKUNDEN"
+
+o Alle Tarif-Tabellen sind schlecht lesbar
+
+  a.) Auf der Smartphoneseite ist die Tariftabelle schlecht lesbar!
+  b.) Auf der Smarthomeseite ist die Tariftabelle schlecht lesbar!
+
+  Screenshot(s):  n65-mp-auswahlTarifDesign.jpg
+                  n66-mp-auswahlTarifDesign.jpg
+  Video clip:
+
+  Heuristik:	Ästhetik und minimales Design
+
+  Wie reproduzierbar: a.) Homeseite --> Menü-Button "PRODUKTE"
+                      --> Alle Smartphones
+                      --> (beim Smartphone) Infos & Kaufen
+                      b.) Homeseite --> Menü-Button "PRODUKTE"
+                      --> SmartHome entdecken
+
+o Shopfinder: Partnerseite schwer öffenbar bzw. keine Rückmeldung
+
+  Auf der Shopfinder Seite bekommt man keine Rückmeldung,
+  wenn man eine Partnerseite öffnen möchte bzw. ist sehr schwer zu öffnen,
+  da man sonst in die Map hineinscrollt.
+  Außerdem öffnet sich nach einiger Zeit ein Dialog und keine Seite.
+
+  Screenshot(s):
+  Video clip:     n05-mp-shopfinder.mp4
+
+  Heuristik:	Rückmeldung des Systenzustandes (Feedback)
+
+  Wie reproduzierbar: Homeseite --> Menü-Button "PRODUKTE"
+  --> SmartHome entdecken
+  --> Zum Shopfinder (mitter der Seite)
+  --> nach einem Ort filtern
+
+o Auf MyHomeNet Tarife lenken die Würfeln ab
+
+  Auf der MyHomeNet Seite lenken die Würfeln von der Tarfi-Tabelle ab.
+
+  Screenshot(s):
+  Video clip:     n48-mp-WuerfelLenkenAb.mp4
+
+  Heuristik:	Ästhetik und minimales Design
+
+  Wie reproduzierbar:  Homeseite --> Menü-Button "PRODUKTE"
+  --> Internet für Zuhause
+
+o Auf MyHomeNet Info wird eine neue Seite geöffnet
+
+  Auf der MyHomeNet Seite sind auf der Tariftabelle Info-Button.
+  Leider wird eine neue Seite geöffnet.
+  Soll eher etwas bei der Tabelle aufklappen,
+  damit die Konsistenz gewehrleistet wird
+
+  Screenshot(s):
+  Video clip:     n39-mp-informationProdukte.mp4
+
+  Heuristik:	Konsistenz
+
+  Wie reproduzierbar:  Homeseite --> Menü-Button "PRODUKTE"
+  --> Internet für Zuhause --> [i] Button drücken
+
+o Einige Menü-Buttons sind verschwommen
+
+  Im Menüpunkt PRODUKTE & MEIN T-MOBILE sind einige Buttons verschwommen
+
+  Screenshot(s):
+  Video clip:     n36-mp-allgemein.mp4
+
+  Heuristik:	Ästhetik und minimales Design
+
+  Wie reproduzierbar:  a.) Homeseite --> Menü-Button "PRODUKTE"
+  b.) Homeseite --> Menü-Button "MEIN T-MOBILE"
+
+o Login-Verfahren ist nicht immer gleich
+
+  Wenn man auf den Menü-Button "MEIN-T-MOBILE" kligt
+  verschwindet der Menü-Button "LOGIN" bzw. eine Login Seite
+  kommt zum Vorschein.
+  Wenn man auf den Menü-Button "LOGIN" drückt poppt ein Drawer auf.
+  Das heißt, die Konsistenz ist nicht gewährleistet.
+
+  Screenshot(s):
+  Video clip:     n54-mp-loginVerfahren.mp4
+
+  Heuristik:	Konsistenz
+
+  Wie reproduzierbar:  a.) Menü-Button "MEIN T-MOBILE"
+  b.) Menü-Button "LOGIN"
+
+o Tinka scrollen funktioniert nicht richtig
+
+  Wenn man ganz nach oben scrollt, wird man automatisch wieder
+  nach unten geleitet.
+  Außerdem scrollt der Hintergrund (Hauptfenster) mit.
+
+  Screenshot(s):
+  Video clip:     n59-mp-tinkaScrollen.mp4
+
+  Heuristik:	Flexibilität und Effizienz / Fehlervermeidung
+
+  Wie reproduzierbar:  auf Anita klicken (Floatbutton)
+
+o Shop filter ist fehlerhaft
+
+  Wenn man einen Filter sätzen möchte wird die ganze Seite neugeladen
+  und nicht die Geräte herausgefiltert, wie es sein sollte.
+  Außerdem verwirrt der Preisfilter bzw. Beliebtheitfilter, da man denkt,
+  dass man etwas aussuchen kann (dabei wird es nur sordiert).
+
+  Screenshot(s):
+  Video clip:     n42-mp-filterSmartphones.mp4
+
+  Heuristik:	Konsistenz
+
+  Wie reproduzierbar: Homeseite --> Menü-Button "PRODUKTE"
+  --> Alle Smartphones --> nach etwas filtern
+
+o Fußzeile ist falsch
+
+  Die Fußzeile ist falsch design bzw. programmiert.
+  Die Fußzeile soll im Vordergrund sein, damit das Scrollen flüßig bleibt.
+
+  Screenshot(s):
+  Video clip:     a.) n68-mp-fußzeileFalsch.mp4 b.) n69-mp-fußzeileFalsch.mp4
+
+  Heuristik:	Flexibilität und Effizienz / Fehlervermeidung
+
+  Wie reproduzierbar: Homeseite --> Menü-Button "PRODUKTE"
+  --> Alle Smartphones --> nach unten scrollen und im Footer auf Job drücken
+
+o Home-Button auf der Job-Seite ist nicht Konsistenz
+
+  Wenn man von Footer auf die Jobseite geht und man möchte wieder zurück,
+  dann ist der Home-Button Jobseite nicht Konsistenz,
+  weil man nicht mehr zur Hauptseite zurückkommt.
+
+  Screenshot(s):
+  Video clip:     n23-mp-homeButtonJobseite.mp4
+
+  Heuristik:	Konsistenz / Umkehrbare Aktionen
+
+  Wie reproduzierbar: Homeseite --> Footer "Job" --> Home-Button (Jobseite)
+
+o Im Shop abholen funktioniert nicht
+
+  Wenn man ein Smartphone kaufen möchte
+  und das Handy dann im Shop abholen möchte, kann man keine Filter setzten.
+
+  Screenshot(s):
+  Video clip:     n12-mp-shopAbholenGehtNicht.mp4
+
+  Heuristik:	Fehlervermeidung / Ästhetik und minimales Design
+
+  Wie reproduzierbar: Homeseite --> Menü-Button "PRODUKTE"
+  --> Alle Smartphones --> Info & Kaufen --> Im Shop abholen

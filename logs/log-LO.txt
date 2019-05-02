@@ -1,0 +1,250 @@
+Evaluator: Liliana Olczak
+Alter: 28
+Geschlecht: weiblich
+Gerät: Laptop Macbook Pro (Retina, 13-inch, Mid 2014)
+Betriebssystem und Version: High Sierra 10.13.4
+Webbrowser und Version: Firefox 40.0.3
+Ad Blocker: -
+Internetverbindung Typ: DSL, 
+Internetverbindung Download Geschwindigkeit: 40 mbps
+Bildschirmgröße: 13,3″
+Bildschirmauflösung: 2560 x 1600
+Browserauflösung: 1280×1024
+Datum der Evaluierung: 2019-04-18
+Uhrzeit der Evaluierung: 10:00-13:00
+
+
+Positive Beobachtungen
+----------------------
+-
+
+
+
+Probleme
+--------
+
+o Allgemein:
+
+ - viele Bilder, vor allem Text haben-> schlechte Auflösung/ verpixelt
+ - Zuviel T-Mobile Farbe wird genutzt:
+	- sehr anstrengend fürs Auge
+	- für Personen mit Farbschwäche schwierig zu lesen (weiß auf magenta)
+
+
+  Screenshot(s):  
+		n33-lo-allgemein.png
+		n34-lo-allgemein.png
+		n35-lo-allgemein.png
+		
+  Video clip:     - 
+
+  Heuristik:  A08 - Ästhetik und minimales Design
+
+  Wie reproduzierbar:  -
+----------------------------------------------------------------
+
+o Schlechte Information bzgl. Produkte:
+
+ - wenn man bei einem Produkt auf "i" -> drückt -> kommt eine unübersichtliche PDF mit zu vielen Informationen
+
+
+
+
+  Video clip:     n38-lo-informationProdukte.mp4
+
+  Heuristik:   A02 - Sprache des Benutzers
+
+  Wie reproduzierbar:  Bei einem Produkt zB Tarif auf "i" klicken
+----------------------------------------------------------------
+o Warenkorb ist verwirrend:
+
+ - wenn man ein Produkt hinzugefügt hat - kommt man zum "Warenkorb" - welcher nicht sehr eindeutig ist -> wenn man einen Tarif zB ausgewählt hat - und dann im Warenkorb - "Gerät ändern" anklickt kommt man zurück auf die vorherige Seite
+
+
+
+ Screenshot(s):  
+  Video clip:     n22-lo-warenkorbVerwirrend.mp4
+
+  Heuristik:   A03 - Umkehrbare Aktionen
+
+  Wie reproduzierbar:  Produkt auswählen - im Warenkorb auf "Gerät ändern" klicken
+
+----------------------------------------------------------------
+o Dropdown-Menü ohne Funktion:
+
+ - manche Produkte suggerieren fälschlicherweise Auswahlfunktionen - ZB HomeNet Box -> Farboptionen - welche durch ein Dropdown-Menü gewählt werden kann - jedoch gibt es keine Funktion - dh. Dropdown-Menü stiftet Verwirrung weil unbrauchbar und nicht funktional.
+
+
+
+ Screenshot(s):  
+  Video clip:     n32-lo-dropDownMenue.mp4
+
+  Heuristik:   A01 - Rückmeldung des Systemzustandes
+
+  Wie reproduzierbar:  Produkt auswählen - zB HomeNet Box - dort könnte man die Farbe als Dropdown-Menü auswählen
+----------------------------------------------------------------
+o Fehlermeldung Warenkorb:
+
+ - nach Auswahl eines Produktes - will vom Warenkorb zur Kasse gehen - kommt plötzlich nicht nachvollziehbare Fehlermeldung (grundlos) - ohne genaue Erläuterung warum
+
+
+
+ Screenshot(s):  
+  Video clip:     n04-lo-FehlermeldungWarenkorb.mp4
+
+  Heuristik:   A09 - Gute Fehlermeldungen 
+
+  Wie reproduzierbar:  im Warenkorb auf "zur Kasse" klicken
+----------------------------------------------------------------
+o Weiterleitung - Error 404:
+
+ - bei Produkt - weitere Informationen -> Weiterleitung an fremde Seite -> 404 Error - Page not found.
+
+
+
+ Screenshot(s):  
+  Video clip:     n52-lo-Error404.mp4
+
+  Heuristik:   A03 - Umkehrbare Aktionen
+
+  Wie reproduzierbar:  Produkt CAT B35 Dual-SIM -> bei "weitere Informationen" -> kommt auf Seite von CAT
+----------------------------------------------------------------
+o Verwirrendes Angebot - Internetschutz
+
+ - bietet als Zusatzoption 2 verschiedene Internetschutz-Möglichkeiten -> kein Unterschied ersichtlich.
+
+
+
+ Screenshot(s):  
+  Video clip:     n61-lo-angebot.mp4
+
+  Heuristik:   A02 - Sprache des Benutzers
+
+  Wie reproduzierbar:  Produkt auswählen - dann bei Zusatzpakete - Norton Multi Versicherung, - Internetschutz
+----------------------------------------------------------------
+o Keine Zurück-Funktion:
+
+ - bei Auswahl eines Produktes - muss man verschiedene Stadien durchlaufen - welches Gerät, welcher Tarif, Rufnummer etc. Hierbei gibt es keine offensichtliche "zurück" Möglichkeit falls man sich zB doch für einen anderen Tarif entscheiden möchte.
+
+
+
+ Screenshot(s):  
+  Video clip:     n08-lo-buttonZurück.mp4
+
+  Heuristik:   A03 - Umkehrbare Aktionen
+
+  Wie reproduzierbar:  Produkt auswählen - durch-navigieren
+----------------------------------------------------------------
+o nicht eindeutige Filterfunktionen bei Produkten (Handys):
+
+ - Auf der Übersichtsseite der Handys - gibt es eine Filter-Funktion - bzgl. Preis (aufsteigend/absteigend). Die Bedienung des Filters ist nur durch einen Pfeil markiert - ist nicht sehr intuitiv - man erwartet ein Dropdown-Menü mit "aufsteigend sortieren..."
+- 3 Filtermöglichkeiten sind vorhanden:
+	Hersteller - als Dropdown
+	Preis und Beliebtheit - per Pfeil nach oben/unten Navigation (keine Konsistenz)
+
+
+
+ Screenshot(s):  
+  Video clip:     n40-lo-filterSmartphones.mp4
+
+  Heuristik:   A06 - Erkennen ist besser als Erinnern
+		A04 - Konsistenz
+
+  Wie reproduzierbar:  Auf Produktübersicht - Handys
+----------------------------------------------------------------
+o Möglichkeiten Farbe ändern - keine Auswirkung:
+
+ - Produkt "Samsung Galaxy A7 blau Dual-Sim" - gibt die Möglichkeit die Farbe zu wählen - zwischen schwarz und blau - nach Auswahl der Farbe Blau - verschwindet Produktbild - suggeriert Änderung - jedoch taucht wieder dasselbe Bild mit Produkt in schwarz auf.
+
+
+
+ Screenshot(s):  
+  Video clip:     n53-lo-farbeAendernKeineAuswirkung.mp4
+
+  Heuristik:   A04 - Konsistenz
+
+  Wie reproduzierbar:  Produkt auswählen - Farbe auswählen - blau
+----------------------------------------------------------------
+o Icons als Buttons - nicht konsistent:
+
+ - auf manchen Untermenüs sind Icons welche als Buttons dienen vorzufinden, auf anderen jedoch sind Icons, welche keine weitere Funktion besitzen - inkonsistent 
+
+Im Allgemeinen besitzt jede Subseite ein anderes Layout
+
+
+
+ Screenshot(s):  
+  Video clip:    
+		n24-lo-IconButton.mp4
+		n25-lo-IconButton.mp4
+		n26-lo-IconButton.mp4
+
+  Heuristik:   A04 - Konsistenz, A06 - Erkennen ist besser als Erinnern
+
+  Wie reproduzierbar:  Untermenü: 
+			Internettarife - Icons als Button
+			Zusatzpakete - Icons und Buttons in anderer Form
+			Gigabytes zum Teilen - wieder andere Form
+			Internet für zu Hause - Icons ohne Funktion
+
+----------------------------------------------------------------
+o Jede Seite hat anderes Layout - nicht konsistent:
+
+ - Fast jede einzelne Seite besitzt ein anderes Layout.
+
+
+
+ Screenshot(s):  
+		n15-lo-anderesLayout.png
+		n16-lo-anderesLayout.png
+		n17-lo-anderesLayout.png
+		n18-lo-anderesLayout.png
+		n19-lo-anderesLayout.png
+		n20-lo-anderesLayout.png
+		n21-lo-anderesLayout.png
+
+		
+  Video clip:    -
+
+  Heuristik:   A04 - Konsistenz
+
+  Wie reproduzierbar:  -
+----------------------------------------------------------------
+o Links - einmal unterstrichen, einmal nur pink:
+
+ - Links werden nicht einheitlich behandelt: manchmal sind sie nur pink (verwechselbar mit Überschriften) und manchmal sind sie unterstrichen.
+
+
+
+ Screenshot(s):  
+  Video clip:      
+		n44-lo-linksAendernSich.mp4
+		n45-lo-linksAendernSich.mp4
+		n46-lo-linksAendernSich.mp4
+
+  Heuristik:   A04 - Konsistenz, A06 - Erkennen ist besser als Erinnern
+
+  Wie reproduzierbar:  -
+----------------------------------------------------------------
+o Tinka:
+
+ - Hilfestellung Tinka - bewegt sich ständig, hindert den User am ordentlichen Benutzen der Seite ("Hallo Tinka.." poppt ständig auf).
+ - Lässt sich nicht wegschalten
+ - Bei Informationen - nicht klar ersichtlich was Trinka wirklich genau tut (abschreckend).
+
+
+
+ Screenshot(s):  
+  Video clip:     n43-lo-tinka.mp4
+
+  Heuristik:   A04 - minimales Design,
+		A02 - Sprache des Benutzers
+		A10 - Hilfe und Dokumentation
+
+  Wie reproduzierbar: taucht rechts auf jeder Seite auf
+----------------------------------------------------------------
+
+
+
+
+
